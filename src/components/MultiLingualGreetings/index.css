@@ -1,0 +1,20 @@
+.active-button {
+  background-color: #db1c48;
+  color: #ffffff;
+  border-width: 0px;
+  border-radius: 20px;
+  cursor: pointer;
+  padding: 10px 18px 10px 18px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.inactive-button {
+  color: #db1c48;
+  border: 2px solid #db1c48;
+  background-color: transparent;
+  border-radius: 20px;
+  cursor: pointer;
+  padding: 10px 18px 10px 18px;
+  font-size: 20px;
+  font-weight: bold;
+}
